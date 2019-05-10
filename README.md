@@ -22,3 +22,6 @@ The repository contains 6 subdirectories, namely *ImportantCSVs*, *Models* and *
 + *Reports and Miscellaneous*: Contains the initial exploration reports drafted during the beginning of semester for documenting the reserach progress
 
 + *Visiualization*: Contains Tableau visiualization that summarizes our findings by the low-tech demo date 
+
+
+Last but not least, we published summary of our analysis & findings on [website] (https://ieor135project.wixsite.com/website) as the UI for the project. 
