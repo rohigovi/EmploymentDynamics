@@ -1,5 +1,5 @@
 # Spring 2019 IEOR 135/290 Group9: Employment Dynamics
-Team Members: Lih Yun Chang, Lu Wang, Ziyu Li, Rohit Govindan, Ran Meng
+Team Members: Rohit Govindan, Lih Yun Chang, Lu Wang, Ziyu Li, Ran Meng
 
 Project Mentor: James Hodson (AI4Good)
 
