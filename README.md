@@ -1,26 +1,27 @@
 # Spring 2019 IEOR 135/290 Group9: Employment Dynamics
 Team Members: Rohit Govindan, Lih Yun Chang, Lu Wang, Ziyu Li, Ran Meng
 
-Project Mentor: James Hodson (AI4Good)
+Project Industry Mentor: James Hodson (AI4Good)
+![alt text](https://github.com/rohigovi/EmploymentDynamics/blob/master/Bay%20Area.PNG)
 
 ## Description:
-In this project, we have used machine learning tools to delve into the different factors affecting an employee's vulnerability to layoffs across 5 major industries in the Bay Area.
-
-*The main datasets we use are:*
-The Bay Area Employee Dataset:
+In this project, we have used machine learning tools to delve into the different factors affecting an employee's vulnerability to layoffs across 5 major industries in the Bay Area.\
+\
+*The main datasets we use are:*\
+The Bay Area Employee Dataset:\
 This dataset(containing over 23 million rows!) has been scraped from resumes of employees in Bay Area and provided by our mentor.
-It contains 21 employee features. Important Features include: Gender, Self reported primary and secondary skillsets and their corresponding weights, city, country, company name, start date of employment.
+It contains 21 employee features. Important Features include: Gender, Self reported primary and secondary skillsets and their corresponding weights, city, country, company name, start date of employment.\
 
-![alt text](https://github.com/rohigovi/EmploymentDynamics/blob/master/Bay%20Area.PNG)
-*The Bay Area WARN Dataset:*
-The Worker Adjustment and Retraining Notification(WARN) Act protects employees by requiring most employers with 100 or more employees to provide advance notification of plant closings and mass layoffs of employees.
+*The Bay Area WARN Dataset:*\
+The Worker Adjustment and Retraining Notification(WARN) Act protects employees by requiring most employers with 100 or more employees to provide advance notification of plant closings and mass layoffs of employees.\
 
-We use this dataset to tell when major layoffs occur, and how many people are affected(between 2014-2018).
+We use this dataset to tell when major layoffs occur, and how many people are affected(between 2014-2018).\
 
-Please visit our website(Especially the Data Analysis and Employee Guide Section) to see our final deliverable: https://ieor135project.wixsite.com/website
+Please visit our website(Especially the Data Analysis and Employee Guide Section) to see our final deliverable: https://ieor135project.wixsite.com/website\
 
-You can also visit this link to view our research report: https://docs.google.com/document/d/1S-92MxKjig6cGqKBzO2M7Bqr5xPFw4AzbUH2oFTamV0/edit?usp=sharing
-This repoistory is used to keep all relevant code and literature for IEOR 135/290 group 9's project: Employment Dynamics. The project is supervised by James Hodson, director of AI4good foundation.  
+You can also visit this link to view our research report: https://docs.google.com/document/d/1S-92MxKjig6cGqKBzO2M7Bqr5xPFw4AzbUH2oFTamV0/edit?usp=sharing\
+\
+This repoistory is used to keep all relevant code and literature for IEOR 135/290 group 9's project: Employment Dynamics. The project is supervised by James Hodson, director of AI4good foundation.\
 
 ## File structure:
 
