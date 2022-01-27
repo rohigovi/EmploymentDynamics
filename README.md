@@ -9,6 +9,7 @@ Project Industry Mentor: James Hodson (AI4Good)
 In this project, we have used machine learning tools to delve into the different factors affecting an employee's vulnerability to layoffs across 5 major industries in the Bay Area.
 
 *The main datasets we use are:*
+
 **The Bay Area Employee Dataset:**
 This dataset(containing over 23 million rows!) has been scraped from resumes of employees in Bay Area and provided by our mentor.
 It contains 21 employee features. Important Features include: Gender, Self reported primary and secondary skillsets and their corresponding weights, city, country, company name, start date of employment.
