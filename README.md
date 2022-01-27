@@ -3,7 +3,7 @@ Team Members: Rohit Govindan(Contributions under Username EmploymentDynamics), L
 
 Project Industry Mentor: James Hodson (AI4Good)
 
-####![alt text](https://github.com/rohigovi/EmploymentDynamics/blob/master/Bay%20Area.PNG)
+#### ![alt text](https://github.com/rohigovi/EmploymentDynamics/blob/master/Bay%20Area.PNG)
 
 ## Description:
 In this project, we have used machine learning tools to delve into the different factors affecting an employee's vulnerability to layoffs across 5 major industries in the Bay Area.
